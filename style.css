@@ -137,6 +137,10 @@ body {
     padding: 40px 0;
     text-align: center;
 }
+.input{
+    color: #1a252f;
+    padding-left: 10px;
+}
 
 .social-links {
     display: flex;
@@ -311,4 +315,5 @@ body {
 .animate.slide-left,
 .animate.slide-right {
     transform: translateX(0);
+
 }
