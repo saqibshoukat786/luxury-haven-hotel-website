@@ -8,7 +8,7 @@
 
         html {
             scroll-behavior: smooth;
-            overflow: hidden;
+            overflow-x: hidden;
         }
 
         body {
@@ -322,3 +322,4 @@
         .animate.slide-right {
             transform: translateX(0);
         }
+
