@@ -141,7 +141,6 @@ body {
     color: #1a252f;
     padding-left: 10px;
 }
-
 .social-links {
     display: flex;
     justify-content: center;
@@ -315,5 +314,4 @@ body {
 .animate.slide-left,
 .animate.slide-right {
     transform: translateX(0);
-
 }
